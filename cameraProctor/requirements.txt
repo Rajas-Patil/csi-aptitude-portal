@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests 
+opencv-python
+ultralytics
+torch
+torchvision
+numpy
+pandas
